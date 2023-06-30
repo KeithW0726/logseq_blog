@@ -2,6 +2,9 @@
 @import "https://codemirror.net/5/theme/darcula.css";
 @import "https://codemirror.net/5/theme/abbott.css";
 
+/* bonofix theme */
+@import url('https://cdn.jsdelivr.net/gh/sansui233/logseq-bonofix-theme/custom.css');
+
 
 /*1. 在各级标题增加小标识*/
 /* .ls-block h1::after {
